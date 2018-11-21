@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+    /* this is the comment */
+    margin: 100px;
+    margin-top: 200px;
+    font-family: "Courier New";
+}
+
+a:link {
+    color:darkturquoise;
+
+}
+a:visited {
+    color:hotpink;
+
+}
+a:hover {
+    color:green;
+
+}
+
+a:active {
+    color:red;
+
+}
+
+a {
+    color:skyblue;
+
+}
+img{
+    /* what does it do: center all images */
+    display: block;
+    margin: 0px auto;
+}
+.highlight {
+    background-color: yellow;
+    color: black;
+}
+hr {
+    color: deepskyblue;
+}
+
+p {
+    font-size: 16pt;
+}
